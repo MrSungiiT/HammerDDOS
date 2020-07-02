@@ -1,2 +1,1 @@
-# HammerDDOS
-How to install this tool
+Code name: SUNG17
